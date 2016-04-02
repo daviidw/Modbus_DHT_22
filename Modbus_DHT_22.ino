@@ -1,5 +1,6 @@
 #include <SimpleModbusSlave.h>
 #include <dht_nonblocking.h>
+#include <ActivityLed.h>
 
 /* Define Pins */
 #define LED  13   // onboard led
